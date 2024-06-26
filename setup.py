@@ -30,6 +30,7 @@ setup(name='robotframework-oxygen',
       author='Eficode Oy',
       author_email='info@eficode.com',
       version='0.4',
+      download_url = 'https://github.com/kleclerccherwenka/robotframework-oxygen/archive/refs/tags/NestedKeywords.tar.gz',
       url='',
       license='MIT',
       install_requires=[
