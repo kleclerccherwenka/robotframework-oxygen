@@ -29,6 +29,7 @@ License :: OSI Approved :: MIT License
 setup(name='robotframework-oxygen',
       author='Eficode Oy',
       author_email='info@eficode.com',
+      version='0.4',
       url='',
       license='MIT',
       install_requires=[
